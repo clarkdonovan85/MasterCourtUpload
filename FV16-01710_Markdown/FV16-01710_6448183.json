@@ -1,0 +1,10 @@
+{
+  "file_name": "FV16-01710_6448183.md",
+  "case_identifier": "FV16-01710",
+  "variables": {
+    "petitioner": "Financial Responsibility",
+    "respondent": "Jacqueline Bryant Clerk"
+  },
+  "tables": [],
+  "error": "'NoneType' object has no attribute 'strip'"
+}
